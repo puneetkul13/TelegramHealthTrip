@@ -1,1 +1,4 @@
-
+clone the repository in the local system
+Then run 'npm install' to install  the dependencies
+Run 'npm start' to start the admin panel and from here you can manage the api keys, message frequency and users deletion.
+To start the bot, run 'node bot.js'
